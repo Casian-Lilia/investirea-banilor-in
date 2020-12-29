@@ -9,6 +9,7 @@ accesati https://repl.it/@LiliaCasian/investitor#main.c
 
 
 ## DESCRIEREA ALGORITMULUI
+![SECEMA BLOC](https://user-images.githubusercontent.com/75851835/103301492-37217500-4a0a-11eb-8036-5dcc129f0a71.jpg)
 
 
 
