@@ -4,7 +4,7 @@ proiect creat la Tekwill in fiecare scoala in C/C++
 accesati https://repl.it/@LiliaCasian/investitor#main.c
 
 ## SCOPUL
-(DESCRIEREA SCOPULUI)
+Am elaborat un proiet pentri detreminarea celui mai mare investiiții de bani întro constructie de cladire
 
 
 
